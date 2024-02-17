@@ -1,10 +1,12 @@
-# 👋 Hi, I’m @LO-HAMER
+# 👋 Hi, I’m LOIC
+-A front-end developer who helps people to build their digital projects
 # 🔭 Currently Working 
- I am currently working on personal projects to strengthen my web development skills.
-- 🌱 I’m currently learning currently React and node.js
+-I am currently working on personal projects to strengthen my web development skills.
+# 🌱 Currently learning 
+-I’m currently learning currently React and node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+
 
 
 <!---
