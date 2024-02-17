@@ -5,7 +5,7 @@ I am currently working on personal projects to strengthen my web development ski
 # 🌱 Currently learning 
 I’m currently learning React and node.js
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LO-HAMER&theme=tokyonight&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LO-HAMER&theme=tokyonight-duo&layout=compact)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=LO-HAMER&theme=tokyonight-duo&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
