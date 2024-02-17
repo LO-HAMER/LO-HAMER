@@ -4,8 +4,7 @@ A front-end developer who helps people to build their digital projects
 I am currently working on personal projects to strengthen my web development skills.
 # 🌱 Currently learning 
 I’m currently learning React and node.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+[![GitHub Streak](https://streak-stats.demolab.com?user=LO-HAMER&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 
 
