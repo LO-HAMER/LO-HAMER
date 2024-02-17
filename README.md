@@ -6,8 +6,7 @@ I am currently working on personal projects to strengthen my web development ski
 I’m currently learning React and node.js
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LO-HAMER&theme=dark&mode=weekly)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=LO-HAMER&theme=tokyonight-duo&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 
 <!---
